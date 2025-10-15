@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# Docker files that shouldn’t be copied
+docker-compose.override.yml
+
+# Node modules (if any)
+node_modules/
+
+# Git
+.git
+.gitignore
+
+# MySQL data folder (important!)
+data/mysql/db
+
+# Logs
+*.log
+logs/
