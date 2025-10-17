@@ -1,4 +1,4 @@
-# Automated Notes App!
+# Automated Notes App using Jenkins!
 This is a simple notes app built with React and Django.
 
 ## Requirements
